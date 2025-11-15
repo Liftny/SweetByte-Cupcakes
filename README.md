@@ -46,6 +46,16 @@ Además, al estar desarrollado en Python/Flask, sirve como una solución simple,
 - Facilitar la interacción con el cliente: Permitir un sistema básico de pedidos mediante formularios.
 - Optimizar la organización interna: Contar con datos estructurados que se pueden ampliar a futuro (por ejemplo, pedidos, personalización, clientes).
 
+## Contexto del Problema
+### Definición del problema
+Las pastelerías tradicionales suelen tener dificultades para mostrar sus productos de forma organizada y profesional en Internet. Esto puede afectar su visibilidad, sus ventas y la comunicación con sus clientes.
+Sin una plataforma digital adecuada, la presentación del catálogo, los precios, las personalizaciones y los pedidos puede volverse desordenada e ineficiente.
+Además, la falta de un sistema centralizado impide que el negocio ofrezca una experiencia moderna que facilite la selección de productos y mejore su competitividad en el mercado.
+
+### Justificación del proyecto
+El desarrollo de SweetByte Cupcakes permitirá contar con una solución digital clara y funcional que muestre el catálogo del negocio ficticio y permita la interacción directa con los clientes.
+Este sitio web optimizará la presentación de los productos, facilitará la gestión de la información y brindará una base tecnológica que puede expandirse con nuevas funciones (carrito, registro de usuarios, personalización avanzada, etc.).
+Esto contribuye a una mayor eficiencia, una mejor imagen y una experiencia más atractiva para los usuarios.
 
 ## Estructura
 
