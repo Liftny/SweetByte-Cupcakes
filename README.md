@@ -1,1 +1,1 @@
-# SweetByte-Cupcakes
+# SweetByte Cupcakes
