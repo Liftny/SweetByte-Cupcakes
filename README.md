@@ -5,7 +5,20 @@ Esta plataforma facilitará la administración del catálogo de productos y mejo
 
 ![image](https://github.com/Liftny/SweetByte-Cupcakes/blob/main/Cupcakes1.jpg?raw=true)
 
+## Características clave del sitio
+### Página principal (Home)
+- Bienvenida y presentación de la marca.
+- Imágenes destacadas de cupcakes.
+- Botón que dirige al catálogo.
 
+### Catálogo de productos
+- Lista de cupcakes.
+- Información: precio, sabor, descripción.
+- Botón “Agregar al pedido” (manejado con sesión/simple lista).
+
+### Personalizador de cupcakes
+- Formulario con selección de sabor, topping y decoración.
+- Enviar pedido (solo muestra resumen, funcionalidad básica).
 
  ### Contacto
 - Formulario para enviar mensaje.
