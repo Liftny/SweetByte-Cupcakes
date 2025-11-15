@@ -3,7 +3,7 @@ En la actualidad, las pequeñas pastelerías y negocios de repostería necesitan
 La creación de un sitio web desarrollado en Python con Flask surge como una respuesta a esta necesidad, ya que permite mostrar de forma clara los cupcakes disponibles, registrar pedidos simples y ofrecer una experiencia visual agradable para los clientes.
 Esta plataforma facilitará la administración del catálogo de productos y mejorará la presencia digital de la pastelería, permitiendo una mejor toma de decisiones y una experiencia más profesional.
 
-![image](https://github.com/Liftny/SweetByte-Cupcakes/blob/main/Cupcakes.webp?raw=true)
+![image](https://github.com/Liftny/SweetByte-Cupcakes/blob/main/Cupcakes1.jpg?raw=true)
 
 ## Características clave del sitio
 ### Página principal (Home)
@@ -38,7 +38,7 @@ El propósito principal de SweetByte Cupcakes es proporcionar un sitio web intui
 El proyecto busca facilitar la interacción entre el cliente y la empresa ficticia, permitiendo consultar sabores, precios, decoraciones disponibles y realizar pedidos básicos a través del sitio.
 Además, al estar desarrollado en Python/Flask, sirve como una solución simple, escalable y funcional para pequeños negocios que buscan digitalizar sus servicios.
 
-![image](https://github.com/Liftny/SweetByte-Cupcakes/blob/main/Cupcakes1.jpg?raw=true)
+![image](https://github.com/Liftny/SweetByte-Cupcakes/blob/main/Cupcakes.webp?raw=true)
 
 ## Objetivos
 - Presentar un catálogo organizado de cupcakes: Mostrar sabores, tamaños, decoraciones y precios de manera clara y atractiva.
