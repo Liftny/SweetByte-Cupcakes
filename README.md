@@ -5,33 +5,36 @@ Esta plataforma facilitará la administración del catálogo de productos y mejo
 
 ![image](https://github.com/Liftny/SweetByte-Cupcakes/blob/main/Cupcakes1.jpg?raw=true)
 
+
 ## Características clave del sitio
 ### Página principal (Home)
-- Bienvenida y presentación de la marca.
-- Imágenes destacadas de cupcakes.
-- Botón que dirige al catálogo.
+- Bienvenida y presentación de la marca SweetBiteCupcakes.
+- Imágenes destacadas de cupcakes artesanales.
+- Botón de acceso directo al catálogo de productos.
 
 ### Catálogo de productos
-- Lista de cupcakes.
-- Información: precio, sabor, descripción.
-- Botón “Agregar al pedido” (manejado con sesión/simple lista).
+- Lista organizada de cupcakes disponibles.
+- Información detallada de cada producto: nombre, sabor, descripción y precio.
+- Botón “Agregar al pedido”, gestionado mediante sesiones del servidor.
 
 ### Personalizador de cupcakes
-- Formulario con selección de sabor, topping y decoración.
-- Enviar pedido (solo muestra resumen, funcionalidad básica).
+- Formulario interactivo para seleccionar sabor, topping y decoración.
+- Envío del pedido mostrando un resumen básico de la personalización seleccionada.
 
- ### Contacto
-- Formulario para enviar mensaje.
-- Datos ficticios de la empresa.
+### Contacto
+- Formulario para el envío de mensajes por parte del cliente.
+- Validación de correo electrónico (solo dominios Gmail y Hotmail).
+- Visualización de datos ficticios de la empresa.
 
 ### Arquitectura backend en Python
-- Servidor con Flask.
-- Rutas separadas.
-- Plantillas HTML con Jinja2.
+- Servidor backend desarrollado en Python utilizando el framework Django.
+- Sistema de rutas separadas mediante archivos urls.py.
+- Uso de plantillas HTML dinámicas mediante el sistema de templates de Django.
+- Manejo de sesiones para pedidos básicos.
 
 ### Diseño responsive
-- CSS sencillo + Bootstrap (opcional).
-
+- Estilos CSS sencillos y personalizados.
+- Uso de Bootstrap para un diseño responsive adaptable a distintos dispositivos.
 
 ## Propósito
 El propósito principal de SweetByte Cupcakes es proporcionar un sitio web intuitivo y visualmente atractivo, donde se pueda presentar un catálogo organizado de cupcakes artesanales.
