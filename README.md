@@ -44,10 +44,14 @@ Además, al estar desarrollado en Python/Flask, sirve como una solución simple,
 ![image](https://github.com/Liftny/SweetByte-Cupcakes/blob/main/Cupcakes.webp?raw=true)
 
 ## Objetivos
-- Presentar un catálogo organizado de cupcakes: Mostrar sabores, tamaños, decoraciones y precios de manera clara y atractiva.
-- Mejorar la presencia digital del negocio: Ofrecer una plataforma accesible y visualmente profesional desarrollada con Python.
-- Facilitar la interacción con el cliente: Permitir un sistema básico de pedidos mediante formularios.
-- Optimizar la organización interna: Contar con datos estructurados que se pueden ampliar a futuro (por ejemplo, pedidos, personalización, clientes).
+### Presentar un catálogo organizado de cupcakes:
+- Mostrar sabores, descripciones y precios de manera clara y atractiva para el usuario.
+### Mejorar la presencia digital del negocio:
+- Ofrecer una plataforma accesible y visualmente profesional desarrollada en Python utilizando el framework Django.
+### Facilitar la interacción con el cliente:
+- Permitir un sistema básico de pedidos mediante botones y formularios, sin necesidad de registro previo.
+### Optimizar la organización interna:
+- Contar con una estructura de datos básica que pueda ampliarse a futuro para la gestión de pedidos, personalización y clientes.
 
 ## Contexto del Problema
 ### Definición del problema
