@@ -1,7 +1,11 @@
-# SweetByte Cupcakes
+# SweetBite Cupcakes 🧁
+
 En la actualidad, las pequeñas pastelerías y negocios de repostería necesitan herramientas digitales que les permitan presentar sus productos y gestionar su contenido de manera eficiente. Sin embargo, muchos de estos negocios carecen de una solución tecnológica que organice su catálogo de cupcakes, sabores, decoraciones, precios y pedidos básicos.
-La creación de un sitio web desarrollado en Python con Flask surge como una respuesta a esta necesidad, ya que permite mostrar de forma clara los cupcakes disponibles, registrar pedidos simples y ofrecer una experiencia visual agradable para los clientes.
-Esta plataforma facilitará la administración del catálogo de productos y mejorará la presencia digital de la pastelería, permitiendo una mejor toma de decisiones y una experiencia más profesional.
+
+La creación de un sitio web desarrollado en Python utilizando el framework Django surge como una respuesta a esta necesidad, permitiendo mostrar de forma clara los cupcakes disponibles, gestionar pedidos simples mediante sesiones y ofrecer una experiencia visual agradable para los clientes.
+
+Esta plataforma facilita la administración del catálogo de productos y mejora la presencia digital de la pastelería, permitiendo una experiencia más profesional e intuitiva.
+
 
 ![image](https://github.com/Liftny/SweetByte-Cupcakes/blob/main/Cupcakes1.jpg?raw=true)
 
@@ -9,7 +13,7 @@ Esta plataforma facilitará la administración del catálogo de productos y mejo
 ## Características clave del sitio
 ### Página principal (Home)
 - Bienvenida y presentación de la marca SweetBiteCupcakes.
-- Imágenes destacadas de cupcakes artesanales.
+- Información general de
 - Botón de acceso directo al catálogo de productos.
 
 ### Catálogo de productos
