@@ -81,5 +81,5 @@ Este sitio web optimiza la presentación de los productos, mejora la gestión de
 Todo esto contribuye a una mejor imagen, mayor eficiencia y una experiencia más atractiva para los usuarios.
 
 ## Estructura
-![image]([https://github.com/Liftny/SweetByte-Cupcakes/blob/main/estructura.jpg?raw=true)
+![image](https://github.com/Liftny/SweetByte-Cupcakes/blob/main/estructura.jpg?raw=true)
 
