@@ -82,6 +82,5 @@ Todo esto contribuye a una mejor imagen, mayor eficiencia y una experiencia más
 
 ## Estructura
 
-![image]([https://github.com/Liftny/SweetByte-Cupcakes/blob/main/Diagrama%20de%20flujo.png?raw=true](https://github.com/Liftny/SweetByte-Cupcakes/blob/101417c73ae2039bf402546a95241b5c563a8d7b/estructura.jpg)
-https://github.com/Liftny/SweetByte-Cupcakes/blob/main/estructura.jpg?raw=true
+![image]([https://github.com/Liftny/SweetByte-Cupcakes/blob/main/estructura.jpg?raw=true])
 
